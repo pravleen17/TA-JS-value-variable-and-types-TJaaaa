@@ -6,6 +6,7 @@ let lastName = "Stark";
 // Do the following:
 
 // Alert the value of the firstName.
+alert
 // Alert the value of the lastName.
 // Assign a new value of `"John"` to firstName.
 // Assign a new value of `"Snow"` to lastName.
